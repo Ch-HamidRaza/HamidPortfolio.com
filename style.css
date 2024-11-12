@@ -30,7 +30,7 @@ body {
     color: #fff;
 }
 .py-top{
-    padding-top: 7rem;
+    padding-top: 4rem;
     padding-bottom: 5rem;
 }
 .section-title {
@@ -588,7 +588,7 @@ h2, h4 {
 }
 
 .contact-subtitle {
-    color: rgb(238,174,202);
+    color: rgb(255, 254, 248);
 }
 
 .contact-email-box {
